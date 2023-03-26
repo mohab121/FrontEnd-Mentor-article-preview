@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mohab121/FrontEnd-Mentor-FAQ-Accordion-Card)
-- Live Site URL: [Add live site URL here](https://mohab121.github.io/FrontEnd-Mentor-FAQ-Accordion-Card/)
+- Solution URL: [Add solution URL here](https://github.com/mohab121/FrontEnd-Mentor-article-preview)
+- Live Site URL: [Add live site URL here](https://mohab121.github.io/FrontEnd-Mentor-article-preview/)
 
 ## My process
 
